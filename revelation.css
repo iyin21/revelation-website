@@ -1,0 +1,20 @@
+.bg-1{
+	background-color: #E9967A;
+	color: #ffffff;
+}
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+h3, h5, p, .wrapper{
+	text-align: left;
+	padding-left: 40%;
+	padding-right: 30%;
+}
+img {
+  border-radius: 50%;
+}
+a{
+	margin: 5px;
+	color: #ffffff;
+}
